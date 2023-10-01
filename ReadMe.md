@@ -1,5 +1,5 @@
 # Burton test
-![Burton Kamzimbi  photo](\CQUEST\img\burtk.jpg)
+![Burton Kamzimbi  photo](\CQUEST\img\burt.jpg)
 
 # Personal Information
 * Firstname:Burton Kamzimbi
