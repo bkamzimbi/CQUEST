@@ -1,5 +1,5 @@
 # Burton test
-![Burton Kamzimbi  photo](testnode\CQUEST\img)
+![Burton Kamzimbi  photo](\CQUEST\img\burtk.jpg)
 
 # Personal Information
 * Firstname:Burton Kamzimbi
@@ -8,7 +8,7 @@
 * Nationality: Malawian
 * Gender: Male
 * Maritual status: Single
-* Language: English, Chinase/ Chichewa
+* Language: _English, Chinase/ Chichewa_
 
 # Contact information
 * Home Postal Address: Pingambuto school, Box 18, Mitundu, Lilogwe, Malawi
