@@ -1,5 +1,5 @@
 # Burton test
-![Burton Kamzimbi  photo](testnode\CQUEST\img)
+![Burton Kamzimbi  photo](C:\testnode\CQUEST\img\burtk.jpg)
 
 # Personal Information
 * Firstname:Burton Kamzimbi
